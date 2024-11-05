@@ -1,11 +1,10 @@
 function Home(){
     return (
         <div>
-            <h1>Para Juliane</h1>
-            <p>Que as dificuldades da vida nunca sejam 
-                maiores que a força que nos move: o AMOR
-            </p>
-            <h2>Sempre juntos</h2>
+            <h1>Memento Mori</h1>
+            <p>Lembre-se que você é mortal. Viva seus 
+                sonhos. Temos tão pouco tempo.
+            </p>        
         </div>
     );
 }
